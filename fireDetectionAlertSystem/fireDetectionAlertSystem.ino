@@ -3,7 +3,7 @@
 #include "SmsController.h"
 
 // arduino components pins
-int flameDetectionSensorPin = 2;
+int flameDetectionSensorPin = 7;
 int buzzerPin = 8;
 int greenLedPin = 12;
 int redLedPin = 13;
