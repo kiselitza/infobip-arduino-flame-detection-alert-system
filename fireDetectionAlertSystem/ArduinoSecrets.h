@@ -1,0 +1,7 @@
+#define WIFI_SSID ""
+#define WIFI_PASS ""
+#define API_SERVER ""
+#define API_USER ""
+#define API_PASS ""
+#define SMS_SENDER ""
+#define SMS_RECIPIENT ""
