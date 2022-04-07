@@ -2,7 +2,7 @@
 A showcase solution for fire detection and audio, visual, and SMS alerting.
 
 ## Setup
-![Setup used for this solution](url "https://i.ibb.co/D1pQWYH/infobip-arduino-setup.png")
+![Setup used for this solution](https://i.ibb.co/D1pQWYH/infobip-arduino-setup.png "Setup used for this solution")
 
 
 ## Used Components
