@@ -2,6 +2,8 @@
 A SHOWCASE solution for fire detection and audio, visual, and SMS alerting.
 Do NOT replace your home security with this. 😁
 
+Read the full article via [Medium](https://medium.com/@kiselica.aldin/e9bcd5c9404e).
+
 ## Quickstart
 In order to run this solution you will first need the following:
 - Arduino IDE from their official [website](https://www.arduino.cc/en/software)
